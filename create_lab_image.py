@@ -9,8 +9,7 @@ import RPi.GPIO as GPIO
 import picamera.array
 
 
-__author__ = 'cstolz@cisco.com'
-__copyright__ = 'Copyright (c) 2017 Cisco Systems. All rights reserved.'
+__author__ = 'cstolz'
 
 __images__ = 'images/'
 
